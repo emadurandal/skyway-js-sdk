@@ -44,7 +44,7 @@ if (process.env.NODE_ENV === 'production') {
 function _getCopyRight() {
   const currentYear = new Date().getFullYear();
   return `
-SkyWay Copyright(c) ${currentYear} NTT Communications Corporation
+SkyWay Copyright(c) ${currentYear} NTT DOCOMO BUSINESS, Inc.
 peerjs Copyright(c) 2013 Michelle Bu <michelle@michellebu.com>
   `.trim();
 }
